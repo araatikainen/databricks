@@ -1,4 +1,5 @@
-# Weekly exercises
+# Data intensive programming course
 
-This repository is a personal repository for a student in the course COMP.CS.320 Data-Intensive Programming, Fall 2023.
-It is intended to be used for the weekly exercises.
+In this repository there are my implementations for weekly exercises and group assigment which is done with a partner. Programming environment was Azure Databricks. \
+\
+Main motivation on course was to learn to use Apache Spark for processing big data. Most of the tasks had different problems for large datasets and todo was to implement efficient and working solution. 
